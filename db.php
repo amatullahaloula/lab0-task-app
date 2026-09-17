@@ -1,7 +1,7 @@
 <?php
 
 $host = "localhost";
-$db_user = "root";
+$db_user = "naima.aloula";
 $db_pass = "";
 $db_name = " ecommerce_2026A_naima_aloula";
 
